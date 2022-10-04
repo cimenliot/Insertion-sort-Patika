@@ -8,7 +8,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 5. Aşama => [2,6,16,18,22,|27]
 ________________________________________
 2. Big-O gösterimini yazınız.
-•	n + (n-1) + (n-2) + ---- + 1 = (n.(n+1))/2 = n^2/2 + n/2 ==> Buradanda Big-O Gösterimi = O(n^2)
+•	n + (n-1) + (n-2) + ---- + 1 = (n.(n+1))/2 = n^2/2 + n/2 ==> Buradan da Big-O Gösterimi = O(n^2)
 ________________________________________
 3. Time Complexity:
 - Average case: Aradığımız sayının ortada olması,
